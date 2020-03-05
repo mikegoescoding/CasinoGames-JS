@@ -1,0 +1,7 @@
+node_modules/
+proxy/
+static/
+webpack/
+.babelrc
+src/
+ignore/
