@@ -4,7 +4,7 @@
 
 ---
 
-## Number Guess Game
+[Number Guess Game](https://github.com/mikegoescoding/CasinoGames-JS/tree/master/v1-guessNumGame)
 
 ---
 
